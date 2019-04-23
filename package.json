@@ -1,0 +1,22 @@
+{
+  "name": "teknokey-api",
+  "version": "1.0.0",
+  "description": "The API for www.teknokey.tk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dymbe/teknokey-api.git"
+  },
+  "author": "Erik Dymbe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dymbe/teknokey-api/issues"
+  },
+  "homepage": "https://github.com/dymbe/teknokey-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
